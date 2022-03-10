@@ -1,1 +1,2 @@
 This is my first test to Github.
+And trying to use VS Code to add to Github.
